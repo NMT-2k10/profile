@@ -5905,7 +5905,7 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Facebook');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.facebook.com/manhtuan10012010', '_blank');
+        window.open('https://www.facebook.com/nmt.dev', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
