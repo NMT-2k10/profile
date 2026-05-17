@@ -5899,7 +5899,7 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Github');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://github.com/NakanoMiku552000', '_blank');
+        window.open('', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
@@ -5917,7 +5917,7 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Tiktok');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.tiktok.com/@nmt2k10.dev?_t=8hfkSge6nPc&_r=1', '_blank');
+        window.open('https://www.tiktok.com/@nmt2k10.dev', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
